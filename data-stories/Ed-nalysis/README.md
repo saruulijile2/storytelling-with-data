@@ -29,4 +29,4 @@ Some next steps would be filtering tweets within the time range of the show to g
 
 # Acknowledgements
 
-My lovely boyfriend and CS major Robert for debugging and helping with the construction of the first bar graph. 
+Akiah's lovely boyfriend and CS major Robert for debugging and helping with the construction of the first bar graph. 
